@@ -1,0 +1,17 @@
+{
+  "folders": {
+    "root": {
+      "id": "root",
+      "name": "/",
+      "parentId": ""
+    },
+    "e66b941d-48c1-427e-be10-2b95396ee066": {
+      "name": "internship @ atri",
+      "id": "e66b941d-48c1-427e-be10-2b95396ee066",
+      "parentId": "root"
+    }
+  },
+  "pages": {
+    "home": "root"
+  }
+}

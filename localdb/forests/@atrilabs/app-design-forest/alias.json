@@ -1,0 +1,17 @@
+{
+  "Flex": 92,
+  "TextBox": 116,
+  "Image": 22,
+  "Menu": 1,
+  "Div": 31,
+  "Button": 9,
+  "Carousel": 10,
+  "Cascader": 1,
+  "Slider": 4,
+  "Overlay": 1,
+  "Modal": 2,
+  "Icon": 1,
+  "LineChart": 1,
+  "Accordion": 1,
+  "UnorderedList": 2
+}
